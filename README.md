@@ -1,3 +1,3 @@
-# spring test
+# spring boot test
 
-Pequeño proyecto de introducción a spring, en el cual sigo el siguiente tutorial: https://javabrains.io/courses/spring_bootquickstart
+Pequeño proyecto de introducción a springBoot, en el cual sigo el siguiente tutorial: https://javabrains.io/courses/spring_bootquickstart
