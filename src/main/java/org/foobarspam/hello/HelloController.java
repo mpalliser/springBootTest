@@ -11,7 +11,7 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public String sayHi(){
-		return "<div>Hi</div>";
+		return "<div style='background: red;color:#0000FF'>Hi</div>";
 	}
 
 }
